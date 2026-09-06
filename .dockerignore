@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+static/uploads/*.jpg
+static/uploads/*.jpeg
+static/uploads/*.png
+!static/uploads/.gitkeep
+raw_dataset/
+dataset/train/
+dataset/val/
+dataset/test/
